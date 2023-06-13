@@ -1,11 +1,11 @@
 {
     "Version": "1.1",
     "Data": {
-        "Source": "d:\\universidad\\tfg\\deliverydrift\\plugins\\developer\\riderlink\\source\\ridershaderinfo\\ridershaderinfo.cpp",
+        "Source": "d:\\universidad\\tfg\\tfg-deliverydrift\\plugins\\developer\\riderlink\\source\\ridershaderinfo\\ridershaderinfo.cpp",
         "ProvidedModule": "",
         "Includes": [
-            "d:\\universidad\\tfg\\deliverydrift\\plugins\\developer\\riderlink\\intermediate\\build\\win64\\unrealeditor\\development\\ridershaderinfo\\definitions.h",
-            "d:\\universidad\\tfg\\deliverydrift\\plugins\\developer\\riderlink\\source\\ridershaderinfo\\ridershaderinfo.h",
+            "d:\\universidad\\tfg\\tfg-deliverydrift\\plugins\\developer\\riderlink\\intermediate\\build\\win64\\unrealeditor\\development\\ridershaderinfo\\definitions.h",
+            "d:\\universidad\\tfg\\tfg-deliverydrift\\plugins\\developer\\riderlink\\source\\ridershaderinfo\\ridershaderinfo.h",
             "d:\\unreal_engine\\ue_5.1\\engine\\source\\runtime\\core\\public\\modules\\moduleinterface.h",
             "d:\\unreal_engine\\ue_5.1\\engine\\source\\runtime\\core\\public\\coretypes.h",
             "d:\\unreal_engine\\ue_5.1\\engine\\source\\runtime\\core\\public\\hal\\platform.h",
